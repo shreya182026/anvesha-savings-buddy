@@ -127,7 +127,7 @@ export const initialState: AppState = {
   onboarded: false,
   lang: "en",
   locationPermission: "unknown",
-  city: "Delhi",
+  city: "",
   name: "Rahul",
   age: "28",
   phone: "98765 43210",
